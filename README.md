@@ -1,6 +1,6 @@
 # PSSW100AVB
 
-This is the PSSW100AVB (Powershell Scripts with 100% AV Bypass) Framework.
+This is the PSSW100AVB (Powershell Scripts With 100% AV Bypass) Framework.
 
 A list of useful Powershell scripts with 100% AV bypass ratio. (At the time of publication).
 
