@@ -1,7 +1,9 @@
 # PSSW100AVB
 
-This is the Powershell Scripts with 100% AV Bypass Repository (PSSW100AVB).
-A list of useful Powershell scripts with 100% AV bypass (At the time of publication). 
+This is the PSSW100AVB (Powershell Scripts with 100% AV Bypass) Framework.
+
+A list of useful Powershell scripts with 100% AV bypass ratio. (At the time of publication).
+
 
 Latest Reverse shell tested on Windows 11 (ReverseShell_2022_03.ps1):
 
