@@ -5,9 +5,10 @@ This is the PSSW100AVB (Powershell Scripts With 100% AV Bypass) Framework.
 A list of useful Powershell scripts with 100% AV bypass ratio. (At the time of publication).
 
 
-Latest Reverse shell tested on Windows 11 (ReverseShell_2022_03.ps1):
+Latest Reverse shell tested on Windows 11 (ReverseShell_2022_06.ps1):
 
-![REVERSE_SHELL](https://user-images.githubusercontent.com/62064939/159348221-b015aa17-87dc-4b88-9aab-049ff682a57d.jpg)
+
+![shell](https://user-images.githubusercontent.com/62064939/174448685-d6beddd0-cdc3-4d8d-a2da-7b88882d2e7e.jpg)
 
 
 
