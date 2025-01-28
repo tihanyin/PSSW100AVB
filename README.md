@@ -3,13 +3,24 @@
 
 ![image](https://github.com/user-attachments/assets/a1f93ea4-e582-4ae7-bbc7-6530a35a6b2d)
 
-## This is the PSSW100AVB (Powershell Scripts With 100% AV Bypass) repository.
+
+
+
+## This is the PSSW100AVB (Powershell Scripts With 100% AV Bypass) repository 
+![GitHub Repo stars](https://img.shields.io/github/stars/tihanyin/PSSW100AVB)
+
 
 This repository contains *PowerShell scripts* designed for penetration testing purposes, including reverse shells. At the time of publication, none of the scripts were flagged by antivirus systems. However, typically within 2-3 weeks after publication, some vendors begin to detect and flag the malicious files. Feel free to use, share, and test these scripts while they remain undetected.
 
+## 🔗 Connect with Me
+[![X](https://img.shields.io/twitter/follow/NorbertTihanyi?style=social&label=Follow)](https://x.com/NorbertTihanyi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/NorbertTihanyi)
 
 
-# 2025 January 
+
+
+
+# 2025 January update
 
 A new reverse shell called **ReverseShell_2025_01.ps1** has been added to the repository. As of January 28, 2025, no antivirus vendors have flagged this file as malicious.
 
