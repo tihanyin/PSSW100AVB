@@ -13,7 +13,7 @@
 This repository contains *PowerShell scripts* designed for penetration testing purposes, including reverse shells. At the time of publication, none of the scripts were flagged by antivirus systems. However, typically within 2-3 weeks after publication, some vendors begin to detect and flag the malicious files. Feel free to use, share, and test these scripts while they remain undetected.
 
 ## 🔗 Connect with Me
-[![X](https://img.shields.io/twitter/follow/NorbertTihanyi?style=social&label=Follow)](https://x.com/NorbertTihanyi)
+[![X](https://img.shields.io/twitter/follow/NorbertTihanyi?style=social&label=Follow)](https://x.com/TihanyiNorbert)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/NorbertTihanyi)
 
 
