@@ -6,21 +6,79 @@
 
 
 
-## This is the PSSW100AVB (Powershell Scripts With 100% AV Bypass) repository 
+# PSSW100AVB - PowerShell Scripts With 100% AV Bypass
 ![GitHub Repo stars](https://img.shields.io/github/stars/tihanyin/PSSW100AVB)
 
+## 📖 What This Repository Does
 
-This repository contains *PowerShell scripts* designed for penetration testing purposes, including reverse shells. At the time of publication, none of the scripts were flagged by antivirus systems. However, typically within 2-3 weeks after publication, some vendors begin to detect and flag the malicious files. Feel free to use, share, and test these scripts while they remain undetected.
+This repository provides **PowerShell-based penetration testing scripts** that are designed to evade antivirus detection. The scripts demonstrate various offensive security techniques including:
+
+- **🔄 Reverse Shells** - Establish remote command execution on target systems
+- **🛡️ AMSI Bypass** - Disable Windows Antimalware Scan Interface (AMSI) protection
+- **🔑 Credential Dumping** - Extract credentials from LSASS (Local Security Authority Subsystem Service)
+
+### Detection Status
+At the time of each script's publication, none were flagged by antivirus systems. However, typically within 2-3 weeks after publication, some vendors begin to detect and flag these files. The repository is periodically updated with new evasion techniques.
+
+## ⚠️ Important Disclaimer
+
+**FOR EDUCATIONAL AND AUTHORIZED TESTING ONLY**
+
+These scripts are intended for:
+- Authorized penetration testing
+- Security research in controlled environments
+- Educational purposes to understand evasion techniques
+
+**Unauthorized use of these tools may be illegal.** Always obtain proper authorization before testing any system you do not own.
 
 ## 🔗 Connect with Me
 [![X](https://img.shields.io/twitter/follow/NorbertTihanyi?style=social&label=Follow)](https://x.com/TihanyiNorbert)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/NorbertTihanyi)
 
+---
 
+## 📋 Quick Reference - Available Scripts
 
+| Script Name | Type | Status | Description |
+|-------------|------|--------|-------------|
+| `ReverseShell_2025_01.ps1` | Reverse Shell | ✅ Undetected (Jan 2025) | Latest reverse shell with AI evasion techniques |
+| `ReverseShell_2022_06.ps1` | Reverse Shell | ⚠️ Detected | Based on Nishang framework (use 2025 version instead) |
+| `ReverseShell_2022_03.ps1` | Reverse Shell | ⚠️ Detected | Older version (use 2025 version instead) |
+| `ReverseShell_2021_09.ps1` | Reverse Shell | ⚠️ Detected | Older version (use 2025 version instead) |
+| `AMSI_bypass_2021_12.ps1` | AMSI Bypass | ⚠️ May be detected | Disables AMSI protection |
+| `AMSI_bypass_2021_09.ps1` | AMSI Bypass | ⚠️ May be detected | Disables AMSI protection |
+| `LsassDump_2022_03.ps1` | Credential Dump | ⚠️ May be detected | Dumps LSASS memory for credential extraction |
 
+---
 
-# 2025 January update
+## 📑 Table of Contents
+
+- [What This Repository Does](#-what-this-repository-does)
+- [Important Disclaimer](#️-important-disclaimer)
+- [Available Scripts](#-available-scripts)
+  - [Reverse Shells](#reverse-shells)
+  - [AMSI Bypass](#amsi-bypass-scripts)
+  - [Credential Dumping](#credential-dumping)
+- [Latest Updates](#-latest-updates)
+
+---
+
+## 🛠️ Available Scripts
+
+### Reverse Shells
+Scripts that establish remote command execution on target systems.
+
+### AMSI Bypass Scripts
+Scripts that disable Windows Antimalware Scan Interface (AMSI) to prevent detection of malicious PowerShell activity.
+
+### Credential Dumping
+Tools to extract credentials from Windows systems for authorized security assessments.
+
+---
+
+## 🆕 Latest Updates
+
+### 2025 January - ReverseShell_2025_01.ps1 (✅ Currently Undetected)
 
 A new reverse shell called **ReverseShell_2025_01.ps1** has been added to the repository. As of January 28, 2025, no antivirus vendors have flagged this file as malicious.
 
@@ -80,9 +138,9 @@ Tested on the latest version of Windows 11 with up-to-date patches and antivirus
 
 ![image](https://github.com/user-attachments/assets/6248e46e-fe97-4f82-8b2f-dc43339ebca4)
 
+---
 
-
-# ReverseShell_2022_06.ps1 : 
+### 2022 June - ReverseShell_2022_06.ps1 (⚠️ Now Detected by Most AV) 
 
 **WARNING:** This file has already been flagged by most antivirus vendors. Please use **ReverseShell_2025_01.ps1** instead.
 ```powershell
@@ -109,12 +167,15 @@ $BT.Close()
 ```
 Reverse shell tested on Windows 11 (ReverseShell_2022_06.ps1):
 
-
 ![shell](https://user-images.githubusercontent.com/62064939/174448685-d6beddd0-cdc3-4d8d-a2da-7b88882d2e7e.jpg)
 
-# LsassDump_2022_03.ps1 : 
+---
 
-Lsass Dump  tested on Windows 11 (LsassDump_2022_03.ps1):
+### 2022 March - LsassDump_2022_03.ps1
+
+**Purpose:** Dumps credentials from the Local Security Authority Subsystem Service (LSASS) process for authorized security assessments.
+
+Lsass Dump tested on Windows 11 (LsassDump_2022_03.ps1):
 
 
 <img width="1601" alt="LSASS" src="https://user-images.githubusercontent.com/62064939/160251464-8c4d64fe-1095-48f9-96aa-ef9b747d4ff0.png">
