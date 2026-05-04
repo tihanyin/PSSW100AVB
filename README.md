@@ -21,7 +21,7 @@ This repository contains *PowerShell scripts* designed for penetration testing p
 
 A new reverse shell called **ReverseShell_2026_05.ps1** has been added to the repository. As of May 4, 2026, no antivirus vendors have flagged this file as malicious. These files typically remain usable for about 2–3 weeks before antivirus vendors begin flagging them. Enjoy it during your red team engagements.
 
-<img width="1319" height="731" alt="Screenshot 2026-05-04 at 11 20 12 PM" src="https://github.com/user-attachments/assets/22c04e6b-2848-4c91-a4e5-ab170ca06ca7" />
+<img width="1319" height="731" alt="image" src="https://github.com/user-attachments/assets/72c86907-5060-42b1-8fc6-1082af3cb504" />
 
 
 ## Behaviour analysis evasion 
