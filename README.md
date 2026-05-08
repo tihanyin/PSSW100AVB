@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/PSSW100AVB-github-logo.png" width="620" alt="PSSW100AVB Logo">
 
-# ⚡ PSSW100AVB Repository
-## PowerShell Scripts With 100% AV Bypass
+# ⚡ PSSW100AVB ⚡ 
+## PowerShell Scripts With 100% AV Bypass Repository
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/tihanyin/PSSW100AVB)
 ![GitHub forks](https://img.shields.io/github/forks/tihanyin/PSSW100AVB)
