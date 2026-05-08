@@ -1,16 +1,19 @@
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/PSSW100AVB-github-logo.png" width="620" alt="PSSW100AVB Logo">
 
+# ⚡ PSSW100AVB Repository
+## PowerShell Scripts With 100% AV Bypass
 
-
-
-<img width="1254" height="1254" alt="PSSW100AVB-github-logo" src="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/PSSW100AVB-github-logo.png" />
-
-
-## Powershell Scripts With 100% AV Bypass (PSSW100AVB) repository 
 ![GitHub Repo stars](https://img.shields.io/github/stars/tihanyin/PSSW100AVB)
+![GitHub forks](https://img.shields.io/github/forks/tihanyin/PSSW100AVB)
+![GitHub last commit](https://img.shields.io/github/last-commit/tihanyin/PSSW100AVB?label=Updated)
+![GitHub repo size](https://img.shields.io/github/repo-size/tihanyin/PSSW100AVB?label=Repository%20Size)
+
+</div>
 
 
-This repository contains *PowerShell scripts* designed for penetration testing purposes, including reverse shells. At the time of publication, none of the scripts were flagged by antivirus systems. However, typically within 2-3 weeks after publication, some vendors begin to detect and flag the malicious files. Feel free to use, share, and test these scripts while they remain undetected.
+This repository contains **PowerShell scripts** designed for penetration testing purposes, including reverse shells. At the time of publication, none of the scripts were flagged by antivirus systems. However, typically within 2-3 weeks after publication, some vendors begin to detect and flag the malicious files. Feel free to use, share, and test these scripts while they remain undetected.
 
 ## 🔗 Connect with Me
 [![X](https://img.shields.io/twitter/follow/NorbertTihanyi?style=social&label=Follow)](https://x.com/TihanyiNorbert)
