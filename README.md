@@ -6,7 +6,7 @@
 <img width="1254" height="1254" alt="PSSW100AVB-github-logo" src="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/PSSW100AVB-github-logo.png" />
 
 
-## This is the PSSW100AVB (Powershell Scripts With 100% AV Bypass) repository 
+## Powershell Scripts With 100% AV Bypass (PSSW100AVB) repository 
 ![GitHub Repo stars](https://img.shields.io/github/stars/tihanyin/PSSW100AVB)
 
 
