@@ -19,12 +19,19 @@
 
 </div>
 
+
+## PSSW100AVB Repository Description 
 This repository contains **PowerShell scripts** designed for penetration testing purposes, including reverse shells. At the time of publication, none of the scripts were flagged by antivirus systems. However, typically within 2-3 weeks after publication, some vendors begin to detect and flag the malicious files. Feel free to use, share, and test these scripts while they remain undetected.
 
-## 🔗 Connect with Me
+## Connect with Me 🔗
 [![X](https://img.shields.io/twitter/follow/NorbertTihanyi?style=social&label=Follow)](https://x.com/TihanyiNorbert)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/NorbertTihanyi)
 
+## Ethical Usage Notice
+
+This repository is intended for ethical hacking, authorized red team operations, penetration testing, malware analysis, adversary simulation, cybersecurity research, defensive security engineering, and educational purposes only.
+
+This project should only be used in environments where you have explicit authorization. The author does not endorse illegal activity, unauthorized access, or malicious use of this software. Users are solely responsible for ensuring compliance with all applicable laws, regulations, and organizational policies.
 
 # 2026 May update (ReverseShell with AI behaviour analysis bypass)
 
