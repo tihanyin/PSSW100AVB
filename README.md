@@ -7,9 +7,11 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/tihanyin/PSSW100AVB?style=flat&color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/tihanyin/PSSW100AVB?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/tihanyin/PSSW100AVB?label=Updated&style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/tihanyin/PSSW100AVB?label=Repository%20Size&style=flat)
 ![Top Language](https://img.shields.io/github/languages/top/tihanyin/PSSW100AVB?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/tihanyin/PSSW100AVB?label=Repository%20Size&style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/tihanyin/PSSW100AVB?label=Updated&style=flat)
+
+
 
 </div>
 
