@@ -10,7 +10,7 @@
 ![Top Language](https://img.shields.io/github/languages/top/tihanyin/PSSW100AVB?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/tihanyin/PSSW100AVB?label=Repository%20Size&style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/tihanyin/PSSW100AVB?label=Updated&style=flat)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
 </div>
