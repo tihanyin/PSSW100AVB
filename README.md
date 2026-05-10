@@ -9,6 +9,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/tihanyin/PSSW100AVB)
 ![GitHub last commit](https://img.shields.io/github/last-commit/tihanyin/PSSW100AVB?label=Updated)
 ![GitHub repo size](https://img.shields.io/github/repo-size/tihanyin/PSSW100AVB?label=Repository%20Size)
+![Top Language](https://img.shields.io/github/languages/top/tihanyin/PSSW100AVB)
 
 </div>
 
