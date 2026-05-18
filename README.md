@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/PSSW100AVB-github-logo.png" width="620" alt="PSSW100AVB Logo">
+<img src="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/images/PSSW100AVB-github-logo.png" width="620" alt="PSSW100AVB Logo">
 
 
 # ⚡ PSSW100AVB ⚡
