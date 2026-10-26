@@ -32,15 +32,15 @@ This repository contains **PowerShell scripts** designed for penetration testing
 
 | Release | Script | Technique | AV Detection (VT) | Download |
 |:-------:|:-------|:----------|:-----------------:|:--------:|
-| 2026‑06 | [`ReverseShell_2026_06.ps1`](scripts/ReverseShell_2026_06.ps1) | Reverse shell + AI/sandbox prompt injection | `0/TBD` | <a href="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/scripts/ReverseShell_2026_06.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
-| 2026‑05 | [`ReverseShell_2026_05.ps1`](scripts/ReverseShell_2026_05.ps1) | Reverse shell + AI behaviour-analysis bypass | `0/61` | <a href="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/scripts/ReverseShell_2026_05.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
-| 2025‑01 | [`ReverseShell_2025_01.ps1`](scripts/ReverseShell_2025_01.ps1) | "Fruit Shell" reverse shell + AI prompt injection | `0/TBD` | <a href="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/scripts/ReverseShell_2025_01.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
-| 2022‑06 | [`ReverseShell_2022_06.ps1`](scripts/ReverseShell_2022_06.ps1) | Nishang-style reverse shell (obfuscated) | `0/TBD` | <a href="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/scripts/ReverseShell_2022_06.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
-| 2022‑03 | [`ReverseShell_2022_03.ps1`](scripts/ReverseShell_2022_03.ps1) | Nishang-style reverse shell | `0/TBD` | <a href="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/scripts/ReverseShell_2022_03.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
-| 2022‑03 | [`LsassDump_2022_03.ps1`](scripts/LsassDump_2022_03.ps1) | LSASS memory dump via MiniDumpWriteDump | `0/TBD` | <a href="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/scripts/LsassDump_2022_03.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
-| 2021‑12 | [`AMSI_bypass_2021_12.ps1`](scripts/AMSI_bypass_2021_12.ps1) | AMSI bypass (amsiInitFailed) | `0/TBD` | <a href="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/scripts/AMSI_bypass_2021_12.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
-| 2021‑09 | [`AMSI_bypass_2021_09.ps1`](scripts/AMSI_bypass_2021_09.ps1) | AMSI bypass (amsiInitFailed) | `0/TBD` | <a href="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/scripts/AMSI_bypass_2021_09.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
-| 2021‑09 | [`ReverseShell_2021_09.ps1`](scripts/ReverseShell_2021_09.ps1) | Nishang-style reverse shell | `0/TBD` | <a href="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/scripts/ReverseShell_2021_09.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
+| 2026‑06 | [`ReverseShell_2026_06.ps1`](scripts/ReverseShell_2026_06.ps1) | Reverse shell + AI/sandbox prompt injection | `0/TBD` | <a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.0/ReverseShell_2026_06.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
+| 2026‑05 | [`ReverseShell_2026_05.ps1`](scripts/ReverseShell_2026_05.ps1) | Reverse shell + AI behaviour-analysis bypass | `0/61` | <a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.0/ReverseShell_2026_05.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
+| 2025‑01 | [`ReverseShell_2025_01.ps1`](scripts/ReverseShell_2025_01.ps1) | "Fruit Shell" reverse shell + AI prompt injection | `0/TBD` | <a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.0/ReverseShell_2025_01.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
+| 2022‑06 | [`ReverseShell_2022_06.ps1`](scripts/ReverseShell_2022_06.ps1) | Nishang-style reverse shell (obfuscated) | `0/TBD` | <a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.0/ReverseShell_2022_06.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
+| 2022‑03 | [`ReverseShell_2022_03.ps1`](scripts/ReverseShell_2022_03.ps1) | Nishang-style reverse shell | `0/TBD` | <a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.0/ReverseShell_2022_03.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
+| 2022‑03 | [`LsassDump_2022_03.ps1`](scripts/LsassDump_2022_03.ps1) | LSASS memory dump via MiniDumpWriteDump | `0/TBD` | <a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.0/LsassDump_2022_03.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
+| 2021‑12 | [`AMSI_bypass_2021_12.ps1`](scripts/AMSI_bypass_2021_12.ps1) | AMSI bypass (amsiInitFailed) | `0/TBD` | <a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.0/AMSI_bypass_2021_12.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
+| 2021‑09 | [`AMSI_bypass_2021_09.ps1`](scripts/AMSI_bypass_2021_09.ps1) | AMSI bypass (amsiInitFailed) | `0/TBD` | <a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.0/AMSI_bypass_2021_09.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
+| 2021‑09 | [`ReverseShell_2021_09.ps1`](scripts/ReverseShell_2021_09.ps1) | Nishang-style reverse shell | `0/TBD` | <a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.0/ReverseShell_2021_09.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
 
 ## Connect with Me 🔗
 [![X](https://img.shields.io/twitter/follow/NorbertTihanyi?style=social&label=Follow)](https://x.com/TihanyiNorbert)
@@ -233,7 +233,7 @@ Tested on the latest version of Windows 11 with up-to-date patches and antivirus
 
 # ReverseShell_2022_06.ps1
 
-<a href="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/scripts/ReverseShell_2022_06.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a>
+<a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.0/ReverseShell_2022_06.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a>
 
 **WARNING:** This file has already been flagged by most antivirus vendors. Please use **[`ReverseShell_2025_01.ps1`](scripts/ReverseShell_2025_01.ps1)** instead.
 ```powershell
@@ -265,7 +265,7 @@ Reverse shell tested on Windows 11 ([`scripts/ReverseShell_2022_06.ps1`](scripts
 
 # LsassDump_2022_03.ps1
 
-<a href="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/scripts/LsassDump_2022_03.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a>
+<a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.0/LsassDump_2022_03.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a>
 
 Lsass Dump tested on Windows 11 ([`scripts/LsassDump_2022_03.ps1`](scripts/LsassDump_2022_03.ps1)):
 
@@ -278,24 +278,24 @@ Lsass Dump tested on Windows 11 ([`scripts/LsassDump_2022_03.ps1`](scripts/Lsass
 
 # ReverseShell_2022_03.ps1
 
-<a href="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/scripts/ReverseShell_2022_03.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a>
+<a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.0/ReverseShell_2022_03.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a>
 
 Nishang-based reverse shell, undetected at publication (March 2022) — [`scripts/ReverseShell_2022_03.ps1`](scripts/ReverseShell_2022_03.ps1)
 
 # ReverseShell_2021_09.ps1
 
-<a href="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/scripts/ReverseShell_2021_09.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a>
+<a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.0/ReverseShell_2021_09.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a>
 
 Nishang-based reverse shell, undetected at publication (September 2021) — [`scripts/ReverseShell_2021_09.ps1`](scripts/ReverseShell_2021_09.ps1)
 
 # AMSI_bypass_2021_12.ps1
 
-<a href="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/scripts/AMSI_bypass_2021_12.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a>
+<a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.0/AMSI_bypass_2021_12.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a>
 
 AMSI bypass (`amsiInitFailed`), undetected at publication (December 2021) — [`scripts/AMSI_bypass_2021_12.ps1`](scripts/AMSI_bypass_2021_12.ps1)
 
 # AMSI_bypass_2021_09.ps1
 
-<a href="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/scripts/AMSI_bypass_2021_09.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a>
+<a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.0/AMSI_bypass_2021_09.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a>
 
 AMSI bypass (`amsiInitFailed`), undetected at publication (September 2021) — [`scripts/AMSI_bypass_2021_09.ps1`](scripts/AMSI_bypass_2021_09.ps1)
