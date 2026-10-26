@@ -44,9 +44,6 @@ All payloads live in the [`scripts/`](scripts) directory — logo and screenshot
 | 2021‑09 | [`AMSI_bypass_2021_09.ps1`](scripts/AMSI_bypass_2021_09.ps1) | AMSI bypass (amsiInitFailed) | `0/TBD` | <a href="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/scripts/AMSI_bypass_2021_09.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
 | 2021‑09 | [`ReverseShell_2021_09.ps1`](scripts/ReverseShell_2021_09.ps1) | Nishang-style reverse shell | `0/TBD` | <a href="https://raw.githubusercontent.com/tihanyin/PSSW100AVB/main/scripts/ReverseShell_2021_09.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
 
-> **Detection rate** = engines that flagged the file / total engines on VirusTotal at publication.
-> `0/TBD` = no detections recorded yet — replace `TBD` with the engine count (e.g. `0/61`).
-
 ## Connect with Me 🔗
 [![X](https://img.shields.io/twitter/follow/NorbertTihanyi?style=social&label=Follow)](https://x.com/TihanyiNorbert)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/NorbertTihanyi)
