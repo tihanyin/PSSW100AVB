@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" role="img" aria-label="Download">
+  <circle cx="12" cy="12" r="11" fill="#6e7681"/>
+  <path d="M12 6.4v6.9m0 0 3-3m-3 3-3-3M6.7 17.4h10.6"
+        fill="none" stroke="#ffffff" stroke-width="1.9"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
