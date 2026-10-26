@@ -30,6 +30,8 @@ This repository contains **PowerShell scripts** designed for penetration testing
 
 ## 📥 Scripts & Detection Summary
 
+**Last tested:** 26 October 2026
+
 | Release | Script | Technique | AV Detection (VT) | Download |
 |:-------:|:-------|:----------|:-----------------:|:--------:|
 | 2026‑06 | [`ReverseShell_2026_06.ps1`](scripts/ReverseShell_2026_06.ps1) | Reverse shell + AI/sandbox prompt injection | `3/58` | <a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.0/ReverseShell_2026_06.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
