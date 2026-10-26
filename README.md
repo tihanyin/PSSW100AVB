@@ -28,8 +28,6 @@
 ## PSSW100AVB Repository Description 
 This repository contains **PowerShell scripts** designed for penetration testing purposes, including reverse shells. At the time of publication, none of the scripts were flagged by antivirus systems. However, typically within 2-3 weeks after publication, some vendors begin to detect and flag the malicious files. Feel free to use, share, and test these scripts while they remain undetected.
 
-All payloads live in the [`scripts/`](scripts) directory — logo and screenshots in [`images/`](images).
-
 ## 📥 Scripts & Detection Summary
 
 | Release | Script | Technique | AV Detection (VT) | Download |
