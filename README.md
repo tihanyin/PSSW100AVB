@@ -34,7 +34,7 @@ This repository contains **PowerShell scripts** designed for penetration testing
 
 | Release | Script | Technique | AV Detection (VT) | Download |
 |:-------:|:-------|:----------|:-----------------:|:--------:|
-| 2026‑10 | [`ReverseShell_2026_10.ps1`](scripts/ReverseShell_2026_10.ps1) | "Windows Telemetry Admin" reverse shell + AI sandbox prompt injection | `0/61` | <a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.1/ReverseShell_2026_10.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
+| 2026‑10 | [`ReverseShell_2026_10.ps1`](scripts/ReverseShell_2026_10.ps1) | "Windows Telemetry Admin" reverse shell + AI sandbox prompt injection | `0/60` | <a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.1/ReverseShell_2026_10.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
 | 2026‑06 | [`ReverseShell_2026_06.ps1`](scripts/ReverseShell_2026_06.ps1) | Reverse shell + AI/sandbox prompt injection | `3/58` | <a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.1/ReverseShell_2026_06.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
 | 2026‑05 | [`ReverseShell_2026_05.ps1`](scripts/ReverseShell_2026_05.ps1) | Reverse shell + AI behaviour-analysis bypass | `20/61` | <a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.1/ReverseShell_2026_05.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
 | 2025‑01 | [`ReverseShell_2025_01.ps1`](scripts/ReverseShell_2025_01.ps1) | "Fruit Shell" reverse shell + AI prompt injection | `33/61` | <a href="https://github.com/tihanyin/PSSW100AVB/releases/download/v1.1/ReverseShell_2025_01.ps1"><img src="images/icons/download.png" width="22" height="22" alt="Download" title="Download"></a> |
@@ -59,9 +59,13 @@ This project should only be used in environments where you have explicit authori
 
 # 2026 October update (Windows Telemetry Admin)
 
-The newest payload, **[`ReverseShell_2026_10.ps1`](scripts/ReverseShell_2026_10.ps1)**, is included in the **v1.1** release. At publication it was not detected by any antivirus engine (`0/61` on VirusTotal). The script presents itself as "Windows Telemetry Admin", an administrative telemetry tool, and embeds a prompt injection that asks AI-assisted sandbox analysis to skip the file.
+The newest payload, **[`ReverseShell_2026_10.ps1`](scripts/ReverseShell_2026_10.ps1)**, is included in the **v1.1** release. At publication it was not detected by any antivirus engine (`0/60` on VirusTotal). The script presents itself as "Windows Telemetry Admin", an administrative telemetry tool, and embeds a prompt injection that asks AI-assisted sandbox analysis to skip the file.
 
 Compared with the June 2026 shell, it handles disconnects cleanly, exits on `exit`, keeps an interactive prompt on empty input, and derives its execution primitive at runtime (`"XEI"[-1..-3]` → `IEX`) before storing it in the `WTA` environment variable.
+
+![VirusTotal report showing 0/60 detections for ReverseShell_2026_10.ps1, next to a live Windows session running whoami and ipconfig](images/POC_2026_10.png)
+
+The screenshot shows the VirusTotal result — no vendors flagged the file — alongside a live session from `ReverseShell_2026_10.ps1` on Windows 11 (`whoami`, `ipconfig`).
 
 **`ReverseShell_2026_10.ps1` file source code** — [`scripts/ReverseShell_2026_10.ps1`](scripts/ReverseShell_2026_10.ps1):
 ```powershell
